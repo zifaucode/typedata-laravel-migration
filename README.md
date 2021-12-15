@@ -1,0 +1,1 @@
+# typedata-laravel-migration
