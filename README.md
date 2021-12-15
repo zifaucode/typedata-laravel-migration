@@ -1,4 +1,4 @@
-# typedata-laravel-migration
+# type data laravel migration
 ## Command	Description
 
 - $table->bigIncrements('id');	Incrementing ID (primary key) using a “UNSIGNED BIG INTEGER” equivalent.
